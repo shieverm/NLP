@@ -1,0 +1,25 @@
+Develop a 3gram & a 2gram LM using Laplace smoothing without using NLTK and SPACY
+
+Training Data
+
+Using English news Corpus (2020 year) as our training data. There are around 10,000 sentences. eng_news_2020_10K-sentences-1.txt
+
+Problem: N-gram language model
+
+We are building 2 language models, one trigram model, and one bigram model, both using Laplace smoothing. 
+With each model, we will do the following tasks:
+
+Display 10 generated sentences from this model.
+Score the probabilities of the provided test set sentences and display the average and standard deviance of these sentences.
+ 
+
+Part 1: Build an n-gram language model 
+Pre-processing of the data. 
+Split the data for training and testing.
+Develop an n-gram model that could model any order n-gram, but that we'll be using specifically to look at bigram and trigram. 
+Handling of unknown words and smoothing.
+Evaluating the language model.
+Part 2: Implement Sentence Generation 
+In this part, implement sentence generation for the Language Model. Starting by generating the <s> token, then sampling from the n-grams beginning with <s>. Stop generating words when you hit an </s> token.
+
+For n-grams larger than 1, the sentences that generate should starting with n−1 <s> tokens and  ending  with n−1 </s> tokens. 
