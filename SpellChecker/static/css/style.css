@@ -1,0 +1,42 @@
+/* style.css */
+
+body {
+    background-color: #ffffff;
+}
+
+h3 {
+    color: #007bff;
+    text-align: center;
+}
+
+
+h4 {
+    color: #3300ff;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.result-area {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #ffffff;
+    color: #3300ff;
+    padding: 10px;
+    text-align: left;
+}

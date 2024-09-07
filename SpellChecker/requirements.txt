@@ -1,0 +1,6 @@
+flask
+pyspellchecker
+sentencepiece
+torch
+transformers
+flask-cors
