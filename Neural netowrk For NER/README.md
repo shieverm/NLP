@@ -1,6 +1,6 @@
-Problem :
-
-Build a neural network for NER using BERT Embeddings & FastText Embeddings
+**Problem :
+**
+**Build a neural network for NER using BERT Embeddings & FastText Embeddings**
 
 
 It involves below :
@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpusLinks
 
 
  6. Evaluate the performance of two models. 
- 6. Visualize the final output as a graph etc. 
+ 7. Visualize the final output as a graph etc. 
 
 
 https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/Links to an external site.
