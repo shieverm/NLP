@@ -1,0 +1,27 @@
+/* style.css */
+
+body {
+    background-color: #ffffff;
+}
+
+h3 {
+    color: #007bff;
+    text-align: center;
+}
+
+
+h5 {
+    color: #3300ff;
+    text-align: center;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+.positive { color: green; font-weight: bold; }
+.negative { color: red; font-weight: bold; }
+.neutral {  color: blue; font-weight: bold; }
+
