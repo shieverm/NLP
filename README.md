@@ -1,5 +1,10 @@
+Problem :
 
-.ipynb involves below :
+Build a neural network for NER using BERT Embeddings & FastText Embeddings
+
+
+It involves below :
+
 Corpus link :
 https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpusLinks
 
